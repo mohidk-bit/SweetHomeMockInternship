@@ -26,7 +26,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * An object with data where users can stored their own properties.
+ * An object with data where users can store their own properties.
  * @author Emmanuel Puybaret
  * @since 5.3
  */
